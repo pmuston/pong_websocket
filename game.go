@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pmuston/echo_websocket/websocket"
+	"github.com/pmuston/pong_websocket/websocket"
 )
 
 // Copyright 2015 The Gorilla WebSocket Authors. All rights reserved.

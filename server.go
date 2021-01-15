@@ -14,7 +14,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/pmuston/echo_websocket/websocket"
+	"github.com/pmuston/pong_websocket/websocket"
 )
 
 var addr = flag.String("addr", "localhost:8080", "http service address")
